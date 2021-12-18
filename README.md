@@ -59,7 +59,7 @@ I am Fabricio Pashaj. I'm 16 year old and I'm a coding addict. I started to lear
   - CLI apps
   - CLI games
 
-BTW if you are interested on the first 4 ones ^, you can join me and my friends with similiar interests in the [Homebrew Compiler Club]() discord server.
+BTW if you are interested on the first 4 ones ^, you can join me and my friends with similiar interests in the [Homebrew Compiler Club](https://discord.gg/V9S8vyWQ) discord server.
 
 ## Stuff about me
   - I code on an android phone 📱.
