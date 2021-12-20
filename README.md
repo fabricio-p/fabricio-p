@@ -20,24 +20,24 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
 ### Actively used languages and tools.
 
 - C<br />
-  Yes, I'm a C programmer, yes I love low level and native, and yes I like to manage memory by myself. I believe a library should never use hardcoded memory management functions (_ahem_ malloc _ahem_ free _ahem_), but instead it should use what the user tells it to. BTW I love macros and I unit-test my C projects.
+  Yes, I'm a C programmer, yes I love low level and native, and yes I like to manage memory myself. I believe a library should never use hardcoded memory management functions—_ahem_ malloc _ahem_ free _ahem_—but instead it should use what the user tells it to. BTW I love macros and I unit-test my C projects.
 - CUnit<br />
   Unit testing library for C.
 - Makefile<br />
-  What C programmer I would be if I didn't know how to use make. I may not be an expert but I have the sufficient knowledge needed to write a working Makefile.
+  What C programmer I would be if I didn't know how to use make? I may not be an expert but I have the sufficient knowledge needed to write a working Makefile.
 - Git<br />
   Who doesn't?
 - find & grep<br />
   To find stuff in a haystack of files contained in nested directories.
 - C++<br />
-  Only during winter because of CS olympiads.
+  Only during winter for CS olympiads.
 
-## Learning
+### Learning
 
 - Rust<br />
   You may call me a freak, but C feels much easier to use.
 - ARM Assembly<br />
-  Know how to read most of instructions.
+  Know how to read most instructions.
 - VimScript<br />
   Looks like esolang lol.
 - Lua
@@ -57,7 +57,7 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
 - V(lang)<br />
   Quit because of trash community.
 - Java (android dev)<br />
-  Did an app once, it had bugs, dropped because I didn't know how to do debugging at the time.
+  Made an app once. It had bugs and was dropped because I didn't know how to do debugging at the time.
 - Elixir & Erlang<br />
   I know how to use them, but I can't find a use case for them.
 - Python<br />
