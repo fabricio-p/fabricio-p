@@ -9,7 +9,7 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
 - I don't write cross-platform C code unless I have or someone asks me to.
 - I use gruvbox theme.
 - I like math, physics, biology and chemistry.
-- I like reading books but I hate literature.
+- I like reading books but I hate literature classes.
 - Elon Musk is cool.
 - I like anime and manga but just as an enjoyer.
 - I like high bass music, Labëri (south Albania) Poliphony and some classical music.
