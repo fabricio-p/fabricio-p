@@ -54,11 +54,11 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
   I'd say I know it on an intermediate level.
 - AssemblyScript<br />
   The language I feel the most comfortable with when compiling to WASM.
-- V(lang)<br />
-  Quit because of trash community.
+<!-- - V(lang)<br />
+  Quit because of trash community. -->
 - Java (android dev)<br />
   Made an app once. It had bugs and was dropped because I didn't know how to do debugging at the time.
-- Elixir & Erlang<br />
+- SpaceX rockets are cool<br />
   I know how to use them, but I can't find a use case for them.
 - Python<br />
   I have actively used it before for a variety of things, now I just use it for scripts.
