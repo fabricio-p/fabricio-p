@@ -1,17 +1,16 @@
 # Hello, world! 👋
 
-I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by the middle of February, 2020. My favourite editor is Vim (just Vim, without the `N` at the begining).
+I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by the middle of February, 2020. My favourite and current editor is NeoVim.
 
 ## Stuff about me
 
  - I code on an android phone 📱.
- - I don't like GUIs.
+ - I'm not a GUI person.
  - I don't write cross-platform C code unless I have or someone asks me to.
- - I use gruvbox theme.
+ - Gruvbox theme.
  - I like math, physics, biology and chemistry.
- - I like reading books but I hate literature classes.
+ - I like reading books but I hate most of school.
  - Rockets, rocket science and other scientific topics are really **cool**.
- - I like anime and manga but just as an enjoyer.
  
 ## Experiences
 
@@ -22,7 +21,7 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
  - CUnit<br />
    Unit testing library for C.
  - Makefile<br />
-   What C programmer I would be if I didn't know how to use make? I may not be an expert but I have the sufficient knowledge needed to write a working Makefile.
+   What C programmer I would be if I didn't know how to use `make`? I may not be a Makefile wizard but I have the sufficient knowledge needed to write a decent working Makefile.
  - Git<br />
    Who doesn't?
  - find & grep<br />
@@ -33,17 +32,16 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
 ### Learning
 
  - Rust<br />
-   You may call me a freak, but C feels much easier to use.
+   It actually isn't thst hard but I just can't get used to it.
  - ARM Assembly<br />
-   Know how to read most instructions.
- - VimScript<br />
-   It really ooks like an esolang lol.
+   Intermediate knowledge.
  - Lua
+   Becoz NeoVim.
  
 ### Not actively used languages and tools.
 
  - HTML5<br />
-   I know how to use it but I'm still not very good, haven't used it in months.
+   I know how to use it but I'm not very good at it, haven't used it in months.
  - CSS<br />
    I only remember some stuff, because, like HTML ^...
  - JavaScript<br />
@@ -55,7 +53,7 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
  <!-- - V(lang)<br />
    Quit because of trash community. -->
  - Java (android dev)<br />
-   Made an app once. It had bugs and was dropped because I didn't know how to do debugging at the time.
+   Made an app once. It had bugs and the project was dropped because I didn't know how to do debugging at the time.
  - Python
    I have actively used it before for a variety of things, now I just use it for scripts.
  - Erlang & Elixir<br />
@@ -66,7 +64,7 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
  - WeeChat<br />
    Still haven't used that once.
  - CMake<br />
-   I don't use it, I just need it to build other projects.
+   I don't use it, I just need it to build other projects that do.
  
 ## Interests (preferably C-based)
 
