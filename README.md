@@ -4,9 +4,6 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
 
 ## Stuff about me
 
- - I code on an android phone 📱.
- - I'm not a GUI person.
- - I don't write cross-platform C code unless I have or someone asks me to.
  - Gruvbox theme.
  - I like math, physics, biology and chemistry.
  - I like reading books but I hate most of school.
