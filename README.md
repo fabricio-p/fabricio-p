@@ -1,4 +1,4 @@
-# Hello, world! 👋
+<!-- # Hello, world! 👋
 
 I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by the middle of February, 2020. My favourite and current editor is NeoVim.
 
@@ -47,8 +47,6 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
    I'd say I know it on an intermediate level.
  - AssemblyScript<br />
    The language I feel the most comfortable with when compiling to WASM.
- <!-- - V(lang)<br />
-   Quit because of trash community. -->
  - Java (android dev)<br />
    Made an app once. It had bugs and the project was dropped because I didn't know how to do debugging at the time.
  - Python
@@ -73,3 +71,5 @@ I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by th
  - CLI games
  
 BTW if you are interested in anything relating to the first 4, you can join me and my friends with similiar interests in the [Homebrew Compiler Club](https://discord.gg/V9S8vyWQ) discord server.
+
+-->
