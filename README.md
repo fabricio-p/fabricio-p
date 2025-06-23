@@ -1,3 +1,27 @@
+# Greetings!
+
+I am Fabricio, a self taught developer who started learning programming around the time the Covid-19 pandemic started.
+
+![Fabricio's Stats](https://github-readme-stats.vercel.app/api?username=fabricio-p&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's in Mechanical Engineering.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=elixir,c,nim,js,ts,html,tailwind,go,cpp,lua,python,linux,bash,neovim,emacs,git,svelte,vue,react,sqlite,postgres,tensorflow&perline=11)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+
+<!-- ## 🏆 Achievements -->
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Bluesky](https://bsky.app/profile/0x0fab.bsky.social)
+<!-- - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev) -->
+
 <!-- # Hello, world! 👋
 
 I am Fabricio Pashaj, a 16 year old coding addict. I started to learn HTML by the middle of February, 2020. My favourite and current editor is NeoVim.
