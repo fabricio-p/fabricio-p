@@ -13,6 +13,7 @@ I am Fabricio, a self taught developer who started learning programming around t
 
 ## 🌱 Currently Exploring
 
+- Asynchronous programming in C with coroutines and multithreading with [c-async-rt](https://github.com/fabricio-p/c-async-rt).
 
 <!-- ## 🏆 Achievements -->
 
