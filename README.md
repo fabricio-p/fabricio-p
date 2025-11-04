@@ -4,21 +4,26 @@ I am Fabricio, a self taught developer who started learning programming around t
 
 ![Fabricio's Stats](https://github-readme-stats.vercel.app/api?username=fabricio-p&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Mechanical Engineering.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=elixir,c,nim,js,ts,html,tailwind,go,rust,lua,python,linux,bash,neovim,emacs,git,svelte,vue,react,sqlite,postgres,tensorflow&perline=11)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
-- Asynchronous programming in C with coroutines and multithreading with [c-async-rt](https://github.com/fabricio-p/c-async-rt).
+- Cross platform neural network inference in Rust with Vulkan compute: [`vk_onnx`](https://github.com/onnx-compilers/vk_onnx)
+- SSA compilers and register allocation in Racket with Nanopass framework: [`scherl`](https://codeberg.org/0xfab/scherl)
+
+## Future Ideas
+
+- Implement [an old database paper](https://vldb.org/conf/1986/P209.PDF) in Ada
 
 <!-- ## 🏆 Achievements -->
 
 
-## 📬 Get in Touch
+## Get in Touch
 
 - Connect with me on [Bluesky](https://bsky.app/profile/0x0fab.bsky.social)
 
