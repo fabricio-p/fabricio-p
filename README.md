@@ -18,7 +18,8 @@ I am Fabricio, a self taught developer who started learning programming around t
 
 ## Future Ideas
 
-- Implement [an old database paper](https://vldb.org/conf/1986/P209.PDF) in Ada
+- Implement [an old database paper](https://vldb.org/conf/1986/P209.PDF) in Ada.
+- Native compiler for Core Erlang (or a subset that includes all the process stuff) in Rust.
 
 <!-- ## 🏆 Achievements -->
 
